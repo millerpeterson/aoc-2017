@@ -1,4 +1,4 @@
-open Core.Std
+open Core
 
 let rec consec_digit_sum' accum digits =
   match digits with
